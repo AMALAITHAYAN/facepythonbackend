@@ -6,8 +6,8 @@ import tempfile
 
 app = Flask(__name__)
 
-API_KEY = 's17AGO3iWNfbdI9QkkyIiS6daUW8lk0K'
-API_SECRET = 'gZMIiSh3YwJvU3d29-SSU-Uw0KdPiXSV'
+API_KEY = '-g2HJjxr7cXknliWvXArQrv3yj8sEO8T'
+API_SECRET = '6Qmd7WAGpCb5jMuE1Fadcpp-rHCj6tkz'
 FACESET_OUTER_ID = 'employee_faces'
 MIN_SIZE = 64
 MAX_SIZE = 1920
